@@ -1,44 +1,29 @@
 # The Internet in One Word
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b)
-[![Python 3.13](https://img.shields.io/badge/python-3.13-blue)](https://www.python.org/downloads/release/python-3130/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![make.fun bounty](https://make.fun/badge/u-ronigrv-the-internet-in-one-word-e388f33b.svg)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b)
+[![make.fun rank](https://make.fun/badge/u-ronigrv-the-internet-in-one-word-e388f33b/gemarizkyu/u-ronigrv-the-internet-in-one-word-e388f33b-entry/rank.svg)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b)
+[![make.fun reward](https://make.fun/badge/u-ronigrv-the-internet-in-one-word-e388f33b/gemarizkyu/u-ronigrv-the-internet-in-one-word-e388f33b-entry/reward.svg)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b)
 
-Entry for the make.fun bounty
-**[The Internet in One Word](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b)** —
-describe the whole internet in a single word.
+## Entry
 
-## The word
+My one word for the internet is **cookies**.
 
-```
-cookies
-```
-
-Why `cookies`: it is funny on its own (biscuits vs. tracking cookies, and the
-"Accept all cookies" ritual everyone on Earth has clicked a thousand times),
-true of the internet as a whole (cookies underpin the web's tracking and
-advertising economy — not one app, one site, or one mood), surprising (not the
-first obvious word anyone reaches for), and it lands in one beat: seven
-letters, spelled correctly, instantly readable.
+The internet runs on cookies: every site offers them, every browser stores them, and every visit leaves a trail of them behind. They are the small, sweet, ever-present piece of the web that everyone knows — loved, blocked, accepted, and joked about in equal measure. One word, seven letters, and instantly recognisable to anyone who has ever been online.
 
 ## How it works
 
-`main.py` (Python 3.13, no dependencies) writes exactly the word `cookies`
-— no trailing newline, 7 bytes — to `$MAKEFUN_OUTPUT_DIR/entry.txt`
-(`./output/entry.txt` when run locally). No network, no model calls, no
-randomness, no wall clock: fully deterministic.
+`main.py` writes the word `cookies` deterministically to `$MAKEFUN_OUTPUT_DIR/entry.txt` — exactly 7 letters, with no trailing newline. There are no network calls, no model calls, and no randomness: the same input always produces the same output.
+
+Run it with:
 
 ```sh
 python3 main.py
-cat output/entry.txt   # cookies
 ```
-
-## Bounty
-
-- Competition: https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b
-- Prize pool: $10 total (1st $5, 2nd $3, 3rd $2)
-- Deadline: 27 Nov 2026, 00:15 WIB (26 Nov 2026, 17:15 UTC)
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT
+
+<sub>Entered on make.fun</sub>
+
+https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b?ref=yyra59b6
